@@ -21,11 +21,17 @@
 
 - Exibir imagens aleatórias de cães (formatos jpg, gif etc);
 
-<img src="../../AppData/Roaming/Typora/typora-user-images/image-20221221190259824.png" alt="image-20221221190259824" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/35903451/209011845-c3123beb-f7c9-4501-9d79-f53b6d0a2dd3.png" alt="img" style="zoom:50%;" />
 
-1. Reproduzio videos aleatórios de cães (formato mp4);
+- Reproduzio videos aleatórios de cães (formato mp4);
 
-<img src="../../AppData/Roaming/Typora/typora-user-images/image-20221221190345848.png" alt="image-20221221190345848" style="zoom: 50%;" />
+<img src="https://user-images.githubusercontent.com/35903451/209011945-e272c68d-6dad-40cd-bf94-9996c64a9a5a.png" alt="video" style="zoom:50%;" />
+
+
+
+
+
+
 
 
 
