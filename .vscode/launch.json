@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run randomDog-randomDog",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/randomdog-approuter/node_modules/@sap/html5-repo-mock/index.js",
+      "args": [
+        "--standalone",
+        "/randomDog/index.html"
+      ],
+      "cwd": "${workspaceFolder}/randomDog",
+      "env": {
+        "PORT": "6004",
+        "MOCK_LOOKUP_DIRS": "[\".\"]",
+        "run.config": "{\"handlerId\":\"ui5_run_config_handler_id\",\"runnableId\":\"/home/user/projects/randomDog/randomDog\"}"
+      },
+      "envFile": "${workspaceFolder}/randomDog/.env1",
+      "preLaunchTask": "Build randomDog"
+    }
+  ]
+}
