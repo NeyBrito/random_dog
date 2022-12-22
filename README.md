@@ -1,6 +1,6 @@
 # Treinamento SAP UI5 !
 
-<img src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" alt="SAPUI5" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" alt="SAPUI5" style="zoom: 10%;" />
 
 ## _Conceitos e principais comandos de JavaScript e HTML_
 
