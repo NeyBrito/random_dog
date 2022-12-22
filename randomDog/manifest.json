@@ -12,5 +12,8 @@
   },
   "sap.cloud": {
     "service": ""
-  }
+  },
+  "sap.flp": {
+    "type": "plugin"
+ }
 }
