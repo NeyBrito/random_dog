@@ -6,7 +6,7 @@
 
 ##### App para  consumir API RandomDog.
 
-![site](https://img.shields.io/badge/RandomDog-685EA9?style=for-the-badge&logo=dog&logoColor=white)(https://neybrito.github.io/randondogsite/)
+[![site](https://img.shields.io/badge/RandomDog-685EA9?style=for-the-badge&logo=dog&logoColor=white)](https://neybrito.github.io/randondogsite/)
 
 ##### Ferramentas 
 
